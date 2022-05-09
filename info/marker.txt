@@ -1,0 +1,8 @@
+## Energy mix
+---
+This dataset contains usage of three fuel types for all countries throughout the world:
+* Coal
+* Natural Gas
+* Biofuel and waste
+
+Values are displayed in Terajoules.

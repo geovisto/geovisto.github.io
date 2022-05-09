@@ -1,0 +1,14 @@
+## Trade in services
+
+
+
+This dataset is displaying OECD countries and the aim is to collect and disseminate
+balance of payments data on international trade in services between UK, USA, Canada and
+Australie with rest of OECD countries. To the extent that countries report them, data are also broken
+down by type of service according to the EBOPS 2010 classification.
+
+
+
+---
+Useful links:
+[UN Stats: Extended Balance of Payments Services Classification 2010](https://unstats.un.org/unsd/classifications/Family/Detail/101)
