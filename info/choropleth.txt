@@ -1,5 +1,0 @@
-## Gross Domestic Product
----
-This dataset contains ***GDP*** in ***OECD*** countries in years 2019 and 2020.
-The displayed values are in millions of US Dollars.
-
